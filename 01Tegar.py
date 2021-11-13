@@ -1,0 +1,1 @@
+print ("Perkenalkan saya Tegar Rahmat Hidayat, NIM 212410102007, Asa; dari Jember")
